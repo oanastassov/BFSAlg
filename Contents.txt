@@ -2,7 +2,7 @@
 
 // This folder contains:
 // The Breadth First Search algorithm 
-// Mathematica visualization provided by Professor Streinu
+// Mathematica visualization provided by Professor Ileana Streinu
 // A data folder containing the input and the output information from this algorithm
 
 // Go to unit tests for running instructions 
