@@ -1,0 +1,10 @@
+// Author: Olivia Anastassov
+// must be in:
+// BreadthFirstSearchAlgorithm/Java/UnitTests
+
+// compile all classes
+javac -d ../Classes/ ../*/*.java    
+
+// run Java on txt file, output grf and cmp files for Mathematica viewer
+
+java -cp ../Classes MainBFS ../../Data/GrfTxt/dag02.txt ../../Data/GrfLev/
