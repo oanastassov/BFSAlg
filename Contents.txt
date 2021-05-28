@@ -1,7 +1,5 @@
 // Author: Olivia Anastassov 
 
-// When it was from: Homework 7. 
-
 // This folder contains:
 // The Breadth First Search algorithm 
 // Mathematica visualization provided by Professor Streinu
